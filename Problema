@@ -1,4 +1,5 @@
-# Método del punto fijo.
+# Punto_Fijo
+
 En el estudio de las poblaciones (por ejemplo de bacterias), la ecuación x = xP(x) establece un vínculo entre 
 el número de individuos x en una generación y el número de individuos en la siguiente generación. 
 La función P(x) modela la tasa de cambio de la población considerada
